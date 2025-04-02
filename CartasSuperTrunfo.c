@@ -35,7 +35,6 @@ int main() {
     printf("Digite o nome da cidade: \n");
     scanf(" %49[^\n]", NomeDaCidade1);
 
-//alteração scanf  scanf(" %s[^\n]"
 
     printf("Digite a população da cidade: \n");
     scanf("%d", &Populacao1);
